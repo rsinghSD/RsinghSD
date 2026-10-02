@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I daily drive MacOS and Arch :)**
 
-- 👨‍💻 All of my projects are available at **[https://www.singhtechsupport.nl/me.html (W.I.P, Temp URL)](https://www.singhtechsupport.nl/me.html (W.I.P, Temp URL))**
+- 👨‍💻 All of my projects are available at **my GitHub**
 
 - 📝 I regularly write articles on **[https://www.singhtechsupport.nl/blog.html (W.I.P, Temp URL)](https://www.singhtechsupport.nl/blog.html (W.I.P, Temp URL))**
 

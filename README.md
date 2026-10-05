@@ -2,8 +2,9 @@
 
 ### Passionate Junior Developer
 
-- 🔭 I'm currently working on **finding a start for my Career in Software Development (Feel free to message me!) and pursuing my education at Bit Academy
-**
+- 🔭 I'm currently working on **finding a start for my Career in Software Development (Feel free to message me!) and pursuing my education at Bit Academy**
+
+- 🔬 I'm keeping myself busy in my free time to work with self hosted n8n.
 
 - 🌱 I'm currently learning **Java (Backend)!**
 

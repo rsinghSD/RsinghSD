@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **finding a start for my Career in Software Development (Feel free to message me!) and pursuing my education at Bit Academy**
 
-- 🔬 I'm keeping myself busy in my free time to work with self hosted n8n.
+- 🔬 I'm keeping myself busy in my free time to make more projects, and get back in guitar.
 
 - 🌱 I'm currently learning **Java (Backend)!**
 
@@ -12,13 +12,13 @@
 
 - 📫 How to reach me **ramandeepsingh_sd@yahoo.com**
 
-- ⚡ Fun fact **I daily drive MacOS and Arch :)**
+- ⚡ Fun fact **I switched from Windows to MacOS!**
 
 - 👨‍💻 All of my projects are available at **my GitHub**
 
-- 📝 I regularly write articles on **[https://www.singhtechsupport.nl/blog.html (W.I.P, Temp URL)](https://www.singhtechsupport.nl/blog.html (W.I.P, Temp URL))**
+- 📝 I regularly write articles on **[https://www.singhtechsupport.nl/blog.html](https://www.singhtechsupport.nl/blog.html)**
 
-- 📄 Know about my experiences **[LinkedIn URL Redirect](https://www.linkedin.com/in/ramandeepsingh-sd/overlay/1790936238761/single-media-viewer/?profileId=ACoAAFMVJPQBAljA_RzDWdreKFdt4ncl9RIgrTw)**
+- 📄 Know about my experiences **[My Linkedin Profile](https://www.linkedin.com/in/ramandeepsingh-sd/overlay/1790936238761/single-media-viewer/?profileId=ACoAAFMVJPQBAljA_RzDWdreKFdt4ncl9RIgrTw)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
